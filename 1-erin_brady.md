@@ -8,7 +8,10 @@ Dr. Brady's research is focused around accessibility and disability, and how the
 Some of her current interests include (a) how social media is used to sway perceptions of disability, (b) how well physical accessibility problems can be identified remotely, and (c) how people with bipolar disorder and schizophrenia use technology to engage in activism and advocacy around 'madness'.
 
 ## Class visit
-Erin will be virtually visiting our class via video call on **Friday, September 30th**. 
+Erin will be virtually visiting our class via video call on **Friday, September 30th**. Our discussion with Erin will focus on accessibility, her research, and her career. 
 
-## Interview Questions:
+## Pre-Visit Assignment
+Submit your questions for Erin as issues to this repo **by 11:59pm on Thursday, September 29th**. Label your questions with "1-erin-brady" and be sure to read and respond to your classmate's questions as well. 
+
+## Selected Interview Questions:
 1.  
